@@ -1,0 +1,13 @@
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/bin/Debug/netcoreapp3.1/variablesApp
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/bin/Debug/netcoreapp3.1/variablesApp.deps.json
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/bin/Debug/netcoreapp3.1/variablesApp.runtimeconfig.json
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/bin/Debug/netcoreapp3.1/variablesApp.runtimeconfig.dev.json
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/bin/Debug/netcoreapp3.1/variablesApp.dll
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/bin/Debug/netcoreapp3.1/variablesApp.pdb
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/obj/Debug/netcoreapp3.1/variablesApp.csprojAssemblyReference.cache
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/obj/Debug/netcoreapp3.1/variablesApp.csproj.CoreCompileInputs.cache
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/obj/Debug/netcoreapp3.1/variablesApp.AssemblyInfoInputs.cache
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/obj/Debug/netcoreapp3.1/variablesApp.AssemblyInfo.cs
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/obj/Debug/netcoreapp3.1/variablesApp.dll
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/obj/Debug/netcoreapp3.1/variablesApp.pdb
+/home/juampa/codeLinux/CursoCSharp/Clase2-Variables/variablesApp/obj/Debug/netcoreapp3.1/variablesApp.genruntimeconfig.cache
