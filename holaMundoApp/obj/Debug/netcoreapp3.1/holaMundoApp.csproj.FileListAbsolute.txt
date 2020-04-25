@@ -1,0 +1,13 @@
+/home/juampa/codeLinux/holaMundoApp/bin/Debug/netcoreapp3.1/holaMundoApp
+/home/juampa/codeLinux/holaMundoApp/bin/Debug/netcoreapp3.1/holaMundoApp.deps.json
+/home/juampa/codeLinux/holaMundoApp/bin/Debug/netcoreapp3.1/holaMundoApp.runtimeconfig.json
+/home/juampa/codeLinux/holaMundoApp/bin/Debug/netcoreapp3.1/holaMundoApp.runtimeconfig.dev.json
+/home/juampa/codeLinux/holaMundoApp/bin/Debug/netcoreapp3.1/holaMundoApp.dll
+/home/juampa/codeLinux/holaMundoApp/bin/Debug/netcoreapp3.1/holaMundoApp.pdb
+/home/juampa/codeLinux/holaMundoApp/obj/Debug/netcoreapp3.1/holaMundoApp.csprojAssemblyReference.cache
+/home/juampa/codeLinux/holaMundoApp/obj/Debug/netcoreapp3.1/holaMundoApp.csproj.CoreCompileInputs.cache
+/home/juampa/codeLinux/holaMundoApp/obj/Debug/netcoreapp3.1/holaMundoApp.AssemblyInfoInputs.cache
+/home/juampa/codeLinux/holaMundoApp/obj/Debug/netcoreapp3.1/holaMundoApp.AssemblyInfo.cs
+/home/juampa/codeLinux/holaMundoApp/obj/Debug/netcoreapp3.1/holaMundoApp.dll
+/home/juampa/codeLinux/holaMundoApp/obj/Debug/netcoreapp3.1/holaMundoApp.pdb
+/home/juampa/codeLinux/holaMundoApp/obj/Debug/netcoreapp3.1/holaMundoApp.genruntimeconfig.cache
